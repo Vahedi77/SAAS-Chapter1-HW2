@@ -1,0 +1,12 @@
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\bin\Debug\net8.0\Models.deps.json
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\bin\Debug\net8.0\Models.dll
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\bin\Debug\net8.0\Models.pdb
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\Models.sourcelink.json
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\Models.dll
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\refint\Models.dll
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\Models.pdb
+D:\TERM3\SAAS\SAAS-Chapter1-HW2\second exersice\Models\obj\Debug\net8.0\ref\Models.dll
